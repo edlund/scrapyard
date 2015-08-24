@@ -1,5 +1,5 @@
 
-# Scrapyard - A collection of things
+# Scrapyard - Bits and pieces of this and that
 
 This is where tests, examples and tutorials come to die, or if they are
 lucky, to spend some time in limbo before they are recycled and put to
