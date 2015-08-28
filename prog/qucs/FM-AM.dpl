@@ -1,0 +1,35 @@
+<Qucs Schematic 0.0.18>
+<Properties>
+  <View=0,-70,1013,1947,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=FM-AM.dat>
+  <DataDisplay=FM-AM.sch>
+  <OpenDisplay=1>
+  <Script=FM-AM.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Title>
+  <FrameText1=Drawn By:>
+  <FrameText2=Date:>
+  <FrameText3=Revision:>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 110 671 716 601 3 #c0c0c0 1 00 1 0 0.0002 0.002 1 -1.8 0.2 1.53563 1 -1 0.2 1 315 0 225 "" "" "">
+	<"AM.Vt" #0000ff 0 3 0 0 0>
+	<"Pr1.Vt" #ff0000 0 3 0 0 0>
+  </Rect>
+  <Rect 110 1371 716 621 3 #c0c0c0 1 00 1 0 0.2 1 1 -0.1 0.5 1.1 1 -0.1 0.5 1.1 315 0 225 "" "" "">
+	<"Pr1.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+  <Rect 110 1871 716 421 3 #c0c0c0 1 00 1 5e-05 0.0002 0.0002 1 -2.5 0.5 2.5 1 -1 0.2 1 315 0 225 "" "" "">
+	<"FM.Vt" #0000ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
