@@ -1,16 +1,17 @@
 -- general:
-name:                primepix
-version:             0.1.0.0
-homepage:            -
-category:            Graphics
-build-type:          Simple
-cabal-version:       >=1.8
+name:                  primepix
+version:               0.1.0.0
+homepage:              -
+category:              Graphics
+build-type:            Simple
+cabal-version:         >=1.8
 
 executable primepix
     main-is:           Main.hs
     hs-source-dirs:    ./
     build-depends:
-        base >=4.0 && < 5.0,
-        containers >=0.1 && < 1.0,
-        JuicyPixels >=3.0 && < 4.0
+        base           >=4.0,
+        containers     >=0.1,
+        JuicyPixels    >=3.0,
+        QuickCheck     >=2.0
 
